@@ -1,0 +1,22 @@
+D:\ứng dụng desktop\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\bin\Debug\Bai tap ly thuyet trang 57.exe.config
+D:\ứng dụng desktop\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\bin\Debug\Bai tap ly thuyet trang 57.exe
+D:\ứng dụng desktop\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\bin\Debug\Bai tap ly thuyet trang 57.pdb
+D:\ứng dụng desktop\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\obj\Debug\Bai tap ly thuyet trang 57.csproj.AssemblyReference.cache
+D:\ứng dụng desktop\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\obj\Debug\Bai tap ly thuyet trang 57.csproj.SuggestedBindingRedirects.cache
+D:\ứng dụng desktop\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\obj\Debug\Bai_tap_ly_thuyet_trang_57.Form1.resources
+D:\ứng dụng desktop\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\obj\Debug\Bai_tap_ly_thuyet_trang_57.Properties.Resources.resources
+D:\ứng dụng desktop\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\obj\Debug\Bai tap ly thuyet trang 57.csproj.GenerateResource.cache
+D:\ứng dụng desktop\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\obj\Debug\Bai tap ly thuyet trang 57.csproj.CoreCompileInputs.cache
+D:\ứng dụng desktop\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\obj\Debug\Bai tap ly thuyet trang 57.exe
+D:\ứng dụng desktop\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\obj\Debug\Bai tap ly thuyet trang 57.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\obj\Debug\Bai tap ly thuyet trang 57.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\obj\Debug\Bai tap ly thuyet trang 57.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\obj\Debug\Bai_tap_ly_thuyet_trang_57.Form1.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\obj\Debug\Bai_tap_ly_thuyet_trang_57.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\obj\Debug\Bai tap ly thuyet trang 57.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\obj\Debug\Bai tap ly thuyet trang 57.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\obj\Debug\Bai tap ly thuyet trang 57.exe
+C:\Users\ADMIN\Documents\Zalo Received Files\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\obj\Debug\Bai tap ly thuyet trang 57.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\bin\Debug\Bai tap ly thuyet trang 57.exe.config
+C:\Users\ADMIN\Documents\Zalo Received Files\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\bin\Debug\Bai tap ly thuyet trang 57.exe
+C:\Users\ADMIN\Documents\Zalo Received Files\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\bin\Debug\Bai tap ly thuyet trang 57.pdb

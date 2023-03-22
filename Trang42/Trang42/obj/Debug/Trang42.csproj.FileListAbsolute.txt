@@ -1,0 +1,11 @@
+D:\HocTap\ứng Dụng Desktop\Trang42\Trang42\bin\Debug\Trang42.exe.config
+D:\HocTap\ứng Dụng Desktop\Trang42\Trang42\bin\Debug\Trang42.exe
+D:\HocTap\ứng Dụng Desktop\Trang42\Trang42\bin\Debug\Trang42.pdb
+D:\HocTap\ứng Dụng Desktop\Trang42\Trang42\obj\Debug\Trang42.csproj.AssemblyReference.cache
+D:\HocTap\ứng Dụng Desktop\Trang42\Trang42\obj\Debug\Trang42.csproj.SuggestedBindingRedirects.cache
+D:\HocTap\ứng Dụng Desktop\Trang42\Trang42\obj\Debug\Trang42.Error.resources
+D:\HocTap\ứng Dụng Desktop\Trang42\Trang42\obj\Debug\Trang42.Properties.Resources.resources
+D:\HocTap\ứng Dụng Desktop\Trang42\Trang42\obj\Debug\Trang42.csproj.GenerateResource.cache
+D:\HocTap\ứng Dụng Desktop\Trang42\Trang42\obj\Debug\Trang42.csproj.CoreCompileInputs.cache
+D:\HocTap\ứng Dụng Desktop\Trang42\Trang42\obj\Debug\Trang42.exe
+D:\HocTap\ứng Dụng Desktop\Trang42\Trang42\obj\Debug\Trang42.pdb

@@ -1,0 +1,11 @@
+C:\Users\ADMIN\Documents\Zalo Received Files\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\obj\Debug\Trang60.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\obj\Debug\Trang60.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\obj\Debug\Trang60.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\obj\Debug\Trang60.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\obj\Debug\Trang60.Form1.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\obj\Debug\Trang60.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\bin\Debug\Trang60.exe.config
+C:\Users\ADMIN\Documents\Zalo Received Files\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\bin\Debug\Trang60.exe
+C:\Users\ADMIN\Documents\Zalo Received Files\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\bin\Debug\Trang60.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\obj\Debug\Trang60.exe
+C:\Users\ADMIN\Documents\Zalo Received Files\Bai tap ly thuyet trang 57\Bai tap ly thuyet trang 57\obj\Debug\Trang60.pdb
